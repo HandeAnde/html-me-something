@@ -1,0 +1,30 @@
+body{
+    background-color: navy;
+    color: white;
+}
+
+h1{
+    color: navy;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 5px solid orange;
+    padding: 10px;
+    text-align: center;
+    background: white;
+    opacity: 0.5;
+    
+}
+
+h2 a{
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    font-style: italic;
+    color: white;
+}
+
+a{
+    color: yellow;
+}
+
+img{
+    width: 300px;
+    border: 3px solid orange;
+}
